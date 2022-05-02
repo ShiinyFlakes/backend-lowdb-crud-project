@@ -1,0 +1,42 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Hamburg",
+      "inhabitants": 1800000
+    },
+    {
+      "id": 2,
+      "name": "Köln",
+      "inhabitants": 1086000
+    },
+    {
+      "id": 3,
+      "name": "Berlin",
+      "inhabitants": 4000000
+    }
+  ],
+    "cars": [
+      {
+        "id": 1,
+        "name": "VW Golf ",
+        "color": "red",
+        "model": "GT",
+        "kmh": 220
+      },
+      {
+        "id": 2,
+        "name": "BMW ",
+        "color": "black",
+        "model": "i8",
+        "kmh": 250
+      },
+      {
+        "id": 3,
+        "name": "Mercedes Benz",
+        "color": "silver",
+        "model": "S63 AMG",
+        "kmh": 300
+      }
+    ]
+  }
